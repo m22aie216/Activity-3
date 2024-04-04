@@ -4,6 +4,9 @@ import matplotlib.pyplot as plt
 
 
 
+
+
+
 def load_data(file_path):
     """Load data from a CSV file."""
     try:
